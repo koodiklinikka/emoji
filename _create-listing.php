@@ -2,7 +2,7 @@
 
 $output        = 'README.md';
 $per_row       = 5;
-$files         = glob( '*.{png,gif,jpg,jpeg}', GLOB_BRACE );
+$files         = glob( 'emoji/*.{png,gif,jpg,jpeg}', GLOB_BRACE );
 $listing       = [];
 $per_row_width = floor( 100 / $per_row ) . '%';
 
@@ -12,8 +12,15 @@ if ( count( $files ) < 1 ) {
     die( 'No images to continue with.' );
 }
 
+function get_basename( string $file ) {
+    $parts = explode( DIRECTORY_SEPARATOR, $file );
+    return end( $parts );
+}
+
 foreach ( $files as $file ) {
-    $first = trim( $file[0] );
+    $first = get_basename( $file );
+    $first = str_replace( 'emoji/', '', $first );
+    $first = trim( $first[0] );
 
     if ( preg_match( '/([^a-zA-Z:])/', $first ) ) {
         $first = '\[^a-zA-Z:\]';
@@ -26,7 +33,7 @@ foreach ( $files as $file ) {
     $listing[ $first ][] = $file;
 }
 
-$contents = "# Slack emotes\n\n";
+$contents = "# Emotes\n\n";
 
 foreach ( $listing as $header => $icons ) {
     $contents .= sprintf( "## %s\n\n", $header );
@@ -39,10 +46,11 @@ foreach ( $listing as $header => $icons ) {
         $contents .= "<tr>\n";
 
         foreach ( $chunk_icons as $icon ) {
-            [ $name, $ext ] = explode( '.', $icon, 2 );
+            $file = $icon;
+            [ $name, $ext ] = explode( '.', get_basename($icon), 2 );
 
             $format   = '<td style=\'width: %s\'><img width=\'30\' src="%2$s" alt="%2$s"><br><kbd>:%3$s:</kbd></td>';
-            $contents .= sprintf( $format, $per_row_width, $icon, $name ) . "\n";
+            $contents .= sprintf( $format, $per_row_width, $file, $name ) . "\n";
         }
 
         $contents .= "</tr>\n";
