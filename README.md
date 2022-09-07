@@ -307,108 +307,129 @@
 </tr>
 <tr>
 <td style='width: 20%'><img width='30' src="emoji/capsparrot.gif" alt="emoji/capsparrot.gif"><br><kbd>:capsparrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/captainphasma.png" alt="emoji/captainphasma.png"><br><kbd>:captainphasma:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/care.png" alt="emoji/care.png"><br><kbd>:care:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/cat-bread-appear.gif" alt="emoji/cat-bread-appear.gif"><br><kbd>:cat-bread-appear:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/cat-bread-disappear.gif" alt="emoji/cat-bread-disappear.gif"><br><kbd>:cat-bread-disappear:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/cat-on-keyboard.png" alt="emoji/cat-on-keyboard.png"><br><kbd>:cat-on-keyboard:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/carebear.png" alt="emoji/carebear.png"><br><kbd>:carebear:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/carebear_cloud.png" alt="emoji/carebear_cloud.png"><br><kbd>:carebear_cloud:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/carlton.gif" alt="emoji/carlton.gif"><br><kbd>:carlton:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cast.png" alt="emoji/cast.png"><br><kbd>:cast:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cat-bread-appear.gif" alt="emoji/cat-bread-appear.gif"><br><kbd>:cat-bread-appear:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cat-bread-disappear.gif" alt="emoji/cat-bread-disappear.gif"><br><kbd>:cat-bread-disappear:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cat-goggles.png" alt="emoji/cat-goggles.png"><br><kbd>:cat-goggles:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/cat-on-keyboard.png" alt="emoji/cat-on-keyboard.png"><br><kbd>:cat-on-keyboard:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cat-with-hat.png" alt="emoji/cat-with-hat.png"><br><kbd>:cat-with-hat:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catbeer.png" alt="emoji/catbeer.png"><br><kbd>:catbeer:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catblob.png" alt="emoji/catblob.png"><br><kbd>:catblob:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catblobgrin.png" alt="emoji/catblobgrin.png"><br><kbd>:catblobgrin:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catblobwhat.png" alt="emoji/catblobwhat.png"><br><kbd>:catblobwhat:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catcake.png" alt="emoji/catcake.png"><br><kbd>:catcake:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catblobwhat.png" alt="emoji/catblobwhat.png"><br><kbd>:catblobwhat:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catcake.png" alt="emoji/catcake.png"><br><kbd>:catcake:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catcoffee.png" alt="emoji/catcoffee.png"><br><kbd>:catcoffee:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catcomfy.png" alt="emoji/catcomfy.png"><br><kbd>:catcomfy:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catdead.png" alt="emoji/catdead.png"><br><kbd>:catdead:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catfingerguns.png" alt="emoji/catfingerguns.png"><br><kbd>:catfingerguns:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catgive.gif" alt="emoji/catgive.gif"><br><kbd>:catgive:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catfingerguns.png" alt="emoji/catfingerguns.png"><br><kbd>:catfingerguns:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catgive.gif" alt="emoji/catgive.gif"><br><kbd>:catgive:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catgiveattention.gif" alt="emoji/catgiveattention.gif"><br><kbd>:catgiveattention:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catglare.png" alt="emoji/catglare.png"><br><kbd>:catglare:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catglarethinking.png" alt="emoji/catglarethinking.png"><br><kbd>:catglarethinking:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catheart.png" alt="emoji/catheart.png"><br><kbd>:catheart:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catjam.gif" alt="emoji/catjam.gif"><br><kbd>:catjam:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catheart.png" alt="emoji/catheart.png"><br><kbd>:catheart:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catjam.gif" alt="emoji/catjam.gif"><br><kbd>:catjam:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catlul.png" alt="emoji/catlul.png"><br><kbd>:catlul:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catmelt.png" alt="emoji/catmelt.png"><br><kbd>:catmelt:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catmorning.png" alt="emoji/catmorning.png"><br><kbd>:catmorning:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catnervous.png" alt="emoji/catnervous.png"><br><kbd>:catnervous:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catok.png" alt="emoji/catok.png"><br><kbd>:catok:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catnervous.png" alt="emoji/catnervous.png"><br><kbd>:catnervous:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catok.png" alt="emoji/catok.png"><br><kbd>:catok:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catpanicpopcorn.png" alt="emoji/catpanicpopcorn.png"><br><kbd>:catpanicpopcorn:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catparty.gif" alt="emoji/catparty.gif"><br><kbd>:catparty:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catpopcorn.png" alt="emoji/catpopcorn.png"><br><kbd>:catpopcorn:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catremote.png" alt="emoji/catremote.png"><br><kbd>:catremote:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catsad.png" alt="emoji/catsad.png"><br><kbd>:catsad:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catremote.png" alt="emoji/catremote.png"><br><kbd>:catremote:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catsad.png" alt="emoji/catsad.png"><br><kbd>:catsad:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catshy.png" alt="emoji/catshy.png"><br><kbd>:catshy:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catsleepy.png" alt="emoji/catsleepy.png"><br><kbd>:catsleepy:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/catsmart.png" alt="emoji/catsmart.png"><br><kbd>:catsmart:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catsmug.png" alt="emoji/catsmug.png"><br><kbd>:catsmug:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/catstopsign.png" alt="emoji/catstopsign.png"><br><kbd>:catstopsign:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/catsmug.png" alt="emoji/catsmug.png"><br><kbd>:catsmug:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/catstopsign.png" alt="emoji/catstopsign.png"><br><kbd>:catstopsign:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cattoot.png" alt="emoji/cattoot.png"><br><kbd>:cattoot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cattunk.png" alt="emoji/cattunk.png"><br><kbd>:cattunk:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/celeryman.gif" alt="emoji/celeryman.gif"><br><kbd>:celeryman:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/cheems.png" alt="emoji/cheems.png"><br><kbd>:cheems:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/chef-brb.png" alt="emoji/chef-brb.png"><br><kbd>:chef-brb:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/cheems.png" alt="emoji/cheems.png"><br><kbd>:cheems:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/chef-brb.png" alt="emoji/chef-brb.png"><br><kbd>:chef-brb:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chefkiss.png" alt="emoji/chefkiss.png"><br><kbd>:chefkiss:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/chewbacca.png" alt="emoji/chewbacca.png"><br><kbd>:chewbacca:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_aww.png" alt="emoji/chick_aww.png"><br><kbd>:chick_aww:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_blush.png" alt="emoji/chick_blush.png"><br><kbd>:chick_blush:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_coffee.png" alt="emoji/chick_coffee.png"><br><kbd>:chick_coffee:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_content.png" alt="emoji/chick_content.png"><br><kbd>:chick_content:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_idea.png" alt="emoji/chick_idea.png"><br><kbd>:chick_idea:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_in_love.png" alt="emoji/chick_in_love.png"><br><kbd>:chick_in_love:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_injured.png" alt="emoji/chick_injured.png"><br><kbd>:chick_injured:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_laptop.png" alt="emoji/chick_laptop.png"><br><kbd>:chick_laptop:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_love_blush.png" alt="emoji/chick_love_blush.png"><br><kbd>:chick_love_blush:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_magic.png" alt="emoji/chick_magic.png"><br><kbd>:chick_magic:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_mischief.png" alt="emoji/chick_mischief.png"><br><kbd>:chick_mischief:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_party.png" alt="emoji/chick_party.png"><br><kbd>:chick_party:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_sad.png" alt="emoji/chick_sad.png"><br><kbd>:chick_sad:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_scientist.png" alt="emoji/chick_scientist.png"><br><kbd>:chick_scientist:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_shades.png" alt="emoji/chick_shades.png"><br><kbd>:chick_shades:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_smile.png" alt="emoji/chick_smile.png"><br><kbd>:chick_smile:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_snuggle.png" alt="emoji/chick_snuggle.png"><br><kbd>:chick_snuggle:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_surprised.png" alt="emoji/chick_surprised.png"><br><kbd>:chick_surprised:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_sweat_smile.png" alt="emoji/chick_sweat_smile.png"><br><kbd>:chick_sweat_smile:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_tea.png" alt="emoji/chick_tea.png"><br><kbd>:chick_tea:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_thinking.png" alt="emoji/chick_thinking.png"><br><kbd>:chick_thinking:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_unicorn.png" alt="emoji/chick_unicorn.png"><br><kbd>:chick_unicorn:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_what.png" alt="emoji/chick_what.png"><br><kbd>:chick_what:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_wink.png" alt="emoji/chick_wink.png"><br><kbd>:chick_wink:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_wizard.png" alt="emoji/chick_wizard.png"><br><kbd>:chick_wizard:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_worried.png" alt="emoji/chick_worried.png"><br><kbd>:chick_worried:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chick_xd.png" alt="emoji/chick_xd.png"><br><kbd>:chick_xd:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chick_zzz.png" alt="emoji/chick_zzz.png"><br><kbd>:chick_zzz:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chicoparrot.gif" alt="emoji/chicoparrot.gif"><br><kbd>:chicoparrot:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/chili.png" alt="emoji/chili.png"><br><kbd>:chili:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chilicorn.png" alt="emoji/chilicorn.png"><br><kbd>:chilicorn:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/chill.jpg" alt="emoji/chill.jpg"><br><kbd>:chill:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/chilli.png" alt="emoji/chilli.png"><br><kbd>:chilli:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/choffice.png" alt="emoji/choffice.png"><br><kbd>:choffice:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/christmasparrot.gif" alt="emoji/christmasparrot.gif"><br><kbd>:christmasparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/chrome.png" alt="emoji/chrome.png"><br><kbd>:chrome:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/chuck_norris.jpg" alt="emoji/chuck_norris.jpg"><br><kbd>:chuck_norris:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cider.jpg" alt="emoji/cider.jpg"><br><kbd>:cider:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cl-trophy.png" alt="emoji/cl-trophy.png"><br><kbd>:cl-trophy:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/classic.png" alt="emoji/classic.png"><br><kbd>:classic:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/climber.gif" alt="emoji/climber.gif"><br><kbd>:climber:</kbd></td>
 </tr>
 <tr>
 <td style='width: 20%'><img width='30' src="emoji/clippy.png" alt="emoji/clippy.png"><br><kbd>:clippy:</kbd></td>
@@ -418,27 +439,43 @@
 <td style='width: 20%'><img width='30' src="emoji/coc.png" alt="emoji/coc.png"><br><kbd>:coc:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/coffee-intense.gif" alt="emoji/coffee-intense.gif"><br><kbd>:coffee-intense:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/coffee-raccoon.png" alt="emoji/coffee-raccoon.png"><br><kbd>:coffee-raccoon:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cola.png" alt="emoji/cola.png"><br><kbd>:cola:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/cold_face_intensified.gif" alt="emoji/cold_face_intensified.gif"><br><kbd>:cold_face_intensified:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/commuting.png" alt="emoji/commuting.png"><br><kbd>:commuting:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/complex-smile.png" alt="emoji/complex-smile.png"><br><kbd>:complex-smile:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/congaparrothd.gif" alt="emoji/congaparrothd.gif"><br><kbd>:congaparrothd:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/complex-smile.png" alt="emoji/complex-smile.png"><br><kbd>:complex-smile:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/confused-parrot.gif" alt="emoji/confused-parrot.gif"><br><kbd>:confused-parrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/confused-travolta.gif" alt="emoji/confused-travolta.gif"><br><kbd>:confused-travolta:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/congaparrothd.gif" alt="emoji/congaparrothd.gif"><br><kbd>:congaparrothd:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/congrid.png" alt="emoji/congrid.png"><br><kbd>:congrid:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/contentful.png" alt="emoji/contentful.png"><br><kbd>:contentful:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cool_cowboy.png" alt="emoji/cool_cowboy.png"><br><kbd>:cool_cowboy:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/copparrot.gif" alt="emoji/copparrot.gif"><br><kbd>:copparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/corgi.png" alt="emoji/corgi.png"><br><kbd>:corgi:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/corgi_dance.gif" alt="emoji/corgi_dance.gif"><br><kbd>:corgi_dance:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/corona-poop.png" alt="emoji/corona-poop.png"><br><kbd>:corona-poop:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/corona-with-lime.png" alt="emoji/corona-with-lime.png"><br><kbd>:corona-with-lime:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/corona_beer.png" alt="emoji/corona_beer.png"><br><kbd>:corona_beer:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cough.jpg" alt="emoji/cough.jpg"><br><kbd>:cough:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cpp.png" alt="emoji/cpp.png"><br><kbd>:cpp:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/crypts.png" alt="emoji/crypts.png"><br><kbd>:crypts:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/csgo.png" alt="emoji/csgo.png"><br><kbd>:csgo:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/crabby.gif" alt="emoji/crabby.gif"><br><kbd>:crabby:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/crazy-cat-lady.png" alt="emoji/crazy-cat-lady.png"><br><kbd>:crazy-cat-lady:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/creeper.png" alt="emoji/creeper.png"><br><kbd>:creeper:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/critical.png" alt="emoji/critical.png"><br><kbd>:critical:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/crypts.png" alt="emoji/crypts.png"><br><kbd>:crypts:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/csgo.png" alt="emoji/csgo.png"><br><kbd>:csgo:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/csslove.png" alt="emoji/csslove.png"><br><kbd>:csslove:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cursedparrot.gif" alt="emoji/cursedparrot.gif"><br><kbd>:cursedparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/cursor.png" alt="emoji/cursor.png"><br><kbd>:cursor:</kbd></td>
 </tr>
@@ -451,53 +488,89 @@
 <td style='width: 20%'><img width='30' src="emoji/dadparrot.gif" alt="emoji/dadparrot.gif"><br><kbd>:dadparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/dailyparrot.gif" alt="emoji/dailyparrot.gif"><br><kbd>:dailyparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/damagers.png" alt="emoji/damagers.png"><br><kbd>:damagers:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancing-disco.gif" alt="emoji/dancing-disco.gif"><br><kbd>:dancing-disco:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingbanana.gif" alt="emoji/dancingbanana.gif"><br><kbd>:dancingbanana:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/dancingbutt.gif" alt="emoji/dancingbutt.gif"><br><kbd>:dancingbutt:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingcupcake.gif" alt="emoji/dancingcupcake.gif"><br><kbd>:dancingcupcake:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingowl.gif" alt="emoji/dancingowl.gif"><br><kbd>:dancingowl:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingpanda.gif" alt="emoji/dancingpanda.gif"><br><kbd>:dancingpanda:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingpanu.gif" alt="emoji/dancingpanu.gif"><br><kbd>:dancingpanu:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/dancingpenguin.gif" alt="emoji/dancingpenguin.gif"><br><kbd>:dancingpenguin:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dancingsquirrel.gif" alt="emoji/dancingsquirrel.gif"><br><kbd>:dancingsquirrel:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/dangerzone.png" alt="emoji/dangerzone.png"><br><kbd>:dangerzone:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/darklord.gif" alt="emoji/darklord.gif"><br><kbd>:darklord:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/darkmodeparrot.gif" alt="emoji/darkmodeparrot.gif"><br><kbd>:darkmodeparrot:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/darthvader.jpg" alt="emoji/darthvader.jpg"><br><kbd>:darthvader:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/darude.jpg" alt="emoji/darude.jpg"><br><kbd>:darude:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/data-analyytikko.png" alt="emoji/data-analyytikko.png"><br><kbd>:data-analyytikko:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/deal-with-it.png" alt="emoji/deal-with-it.png"><br><kbd>:deal-with-it:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/dealwithitnowparrot.gif" alt="emoji/dealwithitnowparrot.gif"><br><kbd>:dealwithitnowparrot:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/delete.jpg" alt="emoji/delete.jpg"><br><kbd>:delete:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/desertdog.png" alt="emoji/desertdog.png"><br><kbd>:desertdog:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/deadinside.png" alt="emoji/deadinside.png"><br><kbd>:deadinside:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/deadpool.png" alt="emoji/deadpool.png"><br><kbd>:deadpool:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/deal-with-it.png" alt="emoji/deal-with-it.png"><br><kbd>:deal-with-it:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dealwithitnowparrot.gif" alt="emoji/dealwithitnowparrot.gif"><br><kbd>:dealwithitnowparrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dealwithitparrot.gif" alt="emoji/dealwithitparrot.gif"><br><kbd>:dealwithitparrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/deathstar.png" alt="emoji/deathstar.png"><br><kbd>:deathstar:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/decent.png" alt="emoji/decent.png"><br><kbd>:decent:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/delete.jpg" alt="emoji/delete.jpg"><br><kbd>:delete:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/deleted.png" alt="emoji/deleted.png"><br><kbd>:deleted:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/desertdog.png" alt="emoji/desertdog.png"><br><kbd>:desertdog:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/dickbutt.png" alt="emoji/dickbutt.png"><br><kbd>:dickbutt:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/digitalist.png" alt="emoji/digitalist.png"><br><kbd>:digitalist:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/digitalocean.png" alt="emoji/digitalocean.png"><br><kbd>:digitalocean:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong-2.png" alt="emoji/ding-dong-2.png"><br><kbd>:ding-dong-2:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong-3.png" alt="emoji/ding-dong-3.png"><br><kbd>:ding-dong-3:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong-4.png" alt="emoji/ding-dong-4.png"><br><kbd>:ding-dong-4:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong-404.png" alt="emoji/ding-dong-404.png"><br><kbd>:ding-dong-404:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong-5.png" alt="emoji/ding-dong-5.png"><br><kbd>:ding-dong-5:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ding-dong.jpg" alt="emoji/ding-dong.jpg"><br><kbd>:ding-dong:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/discoparrot.gif" alt="emoji/discoparrot.gif"><br><kbd>:discoparrot:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/docker.png" alt="emoji/docker.png"><br><kbd>:docker:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/docker_capsized.png" alt="emoji/docker_capsized.png"><br><kbd>:docker_capsized:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/doge.gif" alt="emoji/doge.gif"><br><kbd>:doge:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/doggo.png" alt="emoji/doggo.png"><br><kbd>:doggo:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/dolan.png" alt="emoji/dolan.png"><br><kbd>:dolan:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/doctorevil.png" alt="emoji/doctorevil.png"><br><kbd>:doctorevil:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dog-police.png" alt="emoji/dog-police.png"><br><kbd>:dog-police:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/doge.gif" alt="emoji/doge.gif"><br><kbd>:doge:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/doge.png" alt="emoji/doge.png"><br><kbd>:doge:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/doggo.png" alt="emoji/doggo.png"><br><kbd>:doggo:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/dolan.png" alt="emoji/dolan.png"><br><kbd>:dolan:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/done.png" alt="emoji/done.png"><br><kbd>:done:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/doner.png" alt="emoji/doner.png"><br><kbd>:doner:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/donutparrot.gif" alt="emoji/donutparrot.gif"><br><kbd>:donutparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/doom-look.gif" alt="emoji/doom-look.gif"><br><kbd>:doom-look:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/double-facepalm.png" alt="emoji/double-facepalm.png"><br><kbd>:double-facepalm:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/doubtful-donald.png" alt="emoji/doubtful-donald.png"><br><kbd>:doubtful-donald:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/double-facepalm.png" alt="emoji/double-facepalm.png"><br><kbd>:double-facepalm:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/doubtful-donald.png" alt="emoji/doubtful-donald.png"><br><kbd>:doubtful-donald:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/drake-no.png" alt="emoji/drake-no.png"><br><kbd>:drake-no:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/drake-yes.png" alt="emoji/drake-yes.png"><br><kbd>:drake-yes:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/drevil.jpg" alt="emoji/drevil.jpg"><br><kbd>:drevil:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/drive.png" alt="emoji/drive.png"><br><kbd>:drive:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/drooling_thinking_frustrated_weary_face_with_wavy_mouth.png" alt="emoji/drooling_thinking_frustrated_weary_face_with_wavy_mouth.png"><br><kbd>:drooling_thinking_frustrated_weary_face_with_wavy_mouth:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/drum.gif" alt="emoji/drum.gif"><br><kbd>:drum:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/drummachine.png" alt="emoji/drummachine.png"><br><kbd>:drummachine:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/drunk.gif" alt="emoji/drunk.gif"><br><kbd>:drunk:</kbd></td>
 </tr>
 <tr>
 <td style='width: 20%'><img width='30' src="emoji/dumpsterfire.gif" alt="emoji/dumpsterfire.gif"><br><kbd>:dumpsterfire:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/dwight.png" alt="emoji/dwight.png"><br><kbd>:dwight:</kbd></td>
 </tr>
 </table>
 
@@ -506,37 +579,55 @@
 <table style="text-align: center;width: 100%">
 <tr>
 <td style='width: 20%'><img width='30' src="emoji/ed.png" alt="emoji/ed.png"><br><kbd>:ed:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/edited.png" alt="emoji/edited.png"><br><kbd>:edited:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/einatoon.png" alt="emoji/einatoon.png"><br><kbd>:einatoon:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/eivittu.png" alt="emoji/eivittu.png"><br><kbd>:eivittu:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/elias.png" alt="emoji/elias.png"><br><kbd>:elias:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/elisa.png" alt="emoji/elisa.png"><br><kbd>:elisa:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/einstein.png" alt="emoji/einstein.png"><br><kbd>:einstein:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/eisitten.png" alt="emoji/eisitten.png"><br><kbd>:eisitten:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/eivittu.png" alt="emoji/eivittu.png"><br><kbd>:eivittu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/elias.png" alt="emoji/elias.png"><br><kbd>:elias:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/elisa-logo.png" alt="emoji/elisa-logo.png"><br><kbd>:elisa-logo:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/elisa.png" alt="emoji/elisa.png"><br><kbd>:elisa:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/elisafani.png" alt="emoji/elisafani.png"><br><kbd>:elisafani:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/elixir.png" alt="emoji/elixir.png"><br><kbd>:elixir:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/elon_kek.png" alt="emoji/elon_kek.png"><br><kbd>:elon_kek:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/elon_weed.gif" alt="emoji/elon_weed.gif"><br><kbd>:elon_weed:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/elpo.png" alt="emoji/elpo.png"><br><kbd>:elpo:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/emacs.png" alt="emoji/emacs.png"><br><kbd>:emacs:</kbd></td>
 </tr>
 <tr>
-<td style='width: 20%'><img width='30' src="emoji/emacs.png" alt="emoji/emacs.png"><br><kbd>:emacs:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ember.jpg" alt="emoji/ember.jpg"><br><kbd>:ember:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/emo-maija.png" alt="emoji/emo-maija.png"><br><kbd>:emo-maija:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/empatia.jpg" alt="emoji/empatia.jpg"><br><kbd>:empatia:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/ence.png" alt="emoji/ence.png"><br><kbd>:ence:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/energydrink.png" alt="emoji/energydrink.png"><br><kbd>:energydrink:</kbd></td>
 </tr>
 <tr>
-<td style='width: 20%'><img width='30' src="emoji/energydrink.png" alt="emoji/energydrink.png"><br><kbd>:energydrink:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/enough.jpg" alt="emoji/enough.jpg"><br><kbd>:enough:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/enough_coffee.png" alt="emoji/enough_coffee.png"><br><kbd>:enough_coffee:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/enterprise.jpg" alt="emoji/enterprise.jpg"><br><kbd>:enterprise:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/envy.gif" alt="emoji/envy.gif"><br><kbd>:envy:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/epic_handshake.png" alt="emoji/epic_handshake.png"><br><kbd>:epic_handshake:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/everythingsfineparrot.gif" alt="emoji/everythingsfineparrot.gif"><br><kbd>:everythingsfineparrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/epic.png" alt="emoji/epic.png"><br><kbd>:epic:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/epic_handshake.png" alt="emoji/epic_handshake.png"><br><kbd>:epic_handshake:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/espoo.jpg" alt="emoji/espoo.jpg"><br><kbd>:espoo:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/everythingsfineparrot.gif" alt="emoji/everythingsfineparrot.gif"><br><kbd>:everythingsfineparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/evilparrot.gif" alt="emoji/evilparrot.gif"><br><kbd>:evilparrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/excellent.png" alt="emoji/excellent.png"><br><kbd>:excellent:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/excited-donald.png" alt="emoji/excited-donald.png"><br><kbd>:excited-donald:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/exit.png" alt="emoji/exit.png"><br><kbd>:exit:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/exove.png" alt="emoji/exove.png"><br><kbd>:exove:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/eyes-shifty.gif" alt="emoji/eyes-shifty.gif"><br><kbd>:eyes-shifty:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/eyes_on_fire.png" alt="emoji/eyes_on_fire.png"><br><kbd>:eyes_on_fire:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/eyes_wandering.gif" alt="emoji/eyes_wandering.gif"><br><kbd>:eyes_wandering:</kbd></td>
 </tr>
 </table>
 
@@ -545,36 +636,106 @@
 <table style="text-align: center;width: 100%">
 <tr>
 <td style='width: 20%'><img width='30' src="emoji/f-secure.png" alt="emoji/f-secure.png"><br><kbd>:f-secure:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/face_with_rolling_eyes_anim.gif" alt="emoji/face_with_rolling_eyes_anim.gif"><br><kbd>:face_with_rolling_eyes_anim:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/facebook.png" alt="emoji/facebook.png"><br><kbd>:facebook:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/facepalm-bleeding.png" alt="emoji/facepalm-bleeding.png"><br><kbd>:facepalm-bleeding:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/facepalm.png" alt="emoji/facepalm.png"><br><kbd>:facepalm:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/facepalm_alt.gif" alt="emoji/facepalm_alt.gif"><br><kbd>:facepalm_alt:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fail.png" alt="emoji/fail.png"><br><kbd>:fail:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fail2.png" alt="emoji/fail2.png"><br><kbd>:fail2:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fake-news.png" alt="emoji/fake-news.png"><br><kbd>:fake-news:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fall_on_your_face_laughing.png" alt="emoji/fall_on_your_face_laughing.png"><br><kbd>:fall_on_your_face_laughing:</kbd></td>
 </tr>
 <tr>
-<td style='width: 20%'><img width='30' src="emoji/fake-news.png" alt="emoji/fake-news.png"><br><kbd>:fake-news:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fart.gif" alt="emoji/fart.gif"><br><kbd>:fart:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fastems.png" alt="emoji/fastems.png"><br><kbd>:fastems:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/fetal.png" alt="emoji/fetal.png"><br><kbd>:fetal:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/ffuu.jpg" alt="emoji/ffuu.jpg"><br><kbd>:ffuu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fcb.jpg" alt="emoji/fcb.jpg"><br><kbd>:fcb:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/ferret.png" alt="emoji/ferret.png"><br><kbd>:ferret:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/ferret_blob.png" alt="emoji/ferret_blob.png"><br><kbd>:ferret_blob:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/fetal.png" alt="emoji/fetal.png"><br><kbd>:fetal:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fffuuu.jpg" alt="emoji/fffuuu.jpg"><br><kbd>:fffuuu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/ffuu.jpg" alt="emoji/ffuu.jpg"><br><kbd>:ffuu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fidget.gif" alt="emoji/fidget.gif"><br><kbd>:fidget:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fidgetspinner.gif" alt="emoji/fidgetspinner.gif"><br><kbd>:fidgetspinner:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-bear.png" alt="emoji/fin-bear.png"><br><kbd>:fin-bear:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-christmasparty.png" alt="emoji/fin-christmasparty.png"><br><kbd>:fin-christmasparty:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-cupofcoffee.png" alt="emoji/fin-cupofcoffee.png"><br><kbd>:fin-cupofcoffee:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-finnishlove.png" alt="emoji/fin-finnishlove.png"><br><kbd>:fin-finnishlove:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-flag.png" alt="emoji/fin-flag.png"><br><kbd>:fin-flag:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-forest.png" alt="emoji/fin-forest.png"><br><kbd>:fin-forest:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-girlpower.png" alt="emoji/fin-girlpower.png"><br><kbd>:fin-girlpower:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-handshake.png" alt="emoji/fin-handshake.png"><br><kbd>:fin-handshake:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-happiness.png" alt="emoji/fin-happiness.png"><br><kbd>:fin-happiness:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-headbanger.png" alt="emoji/fin-headbanger.png"><br><kbd>:fin-headbanger:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-iceman.png" alt="emoji/fin-iceman.png"><br><kbd>:fin-iceman:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-joulutorttu.png" alt="emoji/fin-joulutorttu.png"><br><kbd>:fin-joulutorttu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-kaamos.png" alt="emoji/fin-kaamos.png"><br><kbd>:fin-kaamos:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-kalsarikannit-f.png" alt="emoji/fin-kalsarikannit-f.png"><br><kbd>:fin-kalsarikannit-f:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-kalsarikannit-m.png" alt="emoji/fin-kalsarikannit-m.png"><br><kbd>:fin-kalsarikannit-m:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-karjalanpiirakka.png" alt="emoji/fin-karjalanpiirakka.png"><br><kbd>:fin-karjalanpiirakka:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-losthopes-f.png" alt="emoji/fin-losthopes-f.png"><br><kbd>:fin-losthopes-f:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-losthopes-m.png" alt="emoji/fin-losthopes-m.png"><br><kbd>:fin-losthopes-m:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-meanwhileinfinland.png" alt="emoji/fin-meanwhileinfinland.png"><br><kbd>:fin-meanwhileinfinland:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-moominmamma.png" alt="emoji/fin-moominmamma.png"><br><kbd>:fin-moominmamma:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-norppa.png" alt="emoji/fin-norppa.png"><br><kbd>:fin-norppa:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-ooo.png" alt="emoji/fin-ooo.png"><br><kbd>:fin-ooo:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-perkele.png" alt="emoji/fin-perkele.png"><br><kbd>:fin-perkele:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-reindeer.png" alt="emoji/fin-reindeer.png"><br><kbd>:fin-reindeer:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-sauna-f.png" alt="emoji/fin-sauna-f.png"><br><kbd>:fin-sauna-f:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fin-sauna-m.png" alt="emoji/fin-sauna-m.png"><br><kbd>:fin-sauna-m:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-sisu.png" alt="emoji/fin-sisu.png"><br><kbd>:fin-sisu:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-stuck.png" alt="emoji/fin-stuck.png"><br><kbd>:fin-stuck:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-unbreakable.png" alt="emoji/fin-unbreakable.png"><br><kbd>:fin-unbreakable:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fin-woollysocks.png" alt="emoji/fin-woollysocks.png"><br><kbd>:fin-woollysocks:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/finder.png" alt="emoji/finder.png"><br><kbd>:finder:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fine.gif" alt="emoji/fine.gif"><br><kbd>:fine:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fingerpori.jpg" alt="emoji/fingerpori.jpg"><br><kbd>:fingerpori:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/firefox.png" alt="emoji/firefox.png"><br><kbd>:firefox:</kbd></td>
-<td style='width: 20%'><img width='30' src="emoji/firstbeat.png" alt="emoji/firstbeat.png"><br><kbd>:firstbeat:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/finn-dance.gif" alt="emoji/finn-dance.gif"><br><kbd>:finn-dance:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/finnair.png" alt="emoji/finnair.png"><br><kbd>:finnair:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/finnair2.png" alt="emoji/finnair2.png"><br><kbd>:finnair2:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/firefox.png" alt="emoji/firefox.png"><br><kbd>:firefox:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/firstbeat.png" alt="emoji/firstbeat.png"><br><kbd>:firstbeat:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fiskars.png" alt="emoji/fiskars.png"><br><kbd>:fiskars:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fist-bump.gif" alt="emoji/fist-bump.gif"><br><kbd>:fist-bump:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/fix-it-felix.gif" alt="emoji/fix-it-felix.gif"><br><kbd>:fix-it-felix:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fixed.png" alt="emoji/fixed.png"><br><kbd>:fixed:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fixparrot.gif" alt="emoji/fixparrot.gif"><br><kbd>:fixparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/flag-fs.gif" alt="emoji/flag-fs.gif"><br><kbd>:flag-fs:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/flag-pori.png" alt="emoji/flag-pori.png"><br><kbd>:flag-pori:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/flag-pride.png" alt="emoji/flag-pride.png"><br><kbd>:flag-pride:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/flag-su.png" alt="emoji/flag-su.png"><br><kbd>:flag-su:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/flockler.png" alt="emoji/flockler.png"><br><kbd>:flockler:</kbd></td>
-</tr>
-<tr>
 <td style='width: 20%'><img width='30' src="emoji/floss.gif" alt="emoji/floss.gif"><br><kbd>:floss:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/flowerparrot.gif" alt="emoji/flowerparrot.gif"><br><kbd>:flowerparrot:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/flushed-donald.png" alt="emoji/flushed-donald.png"><br><kbd>:flushed-donald:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/flying_squirrel.png" alt="emoji/flying_squirrel.png"><br><kbd>:flying_squirrel:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/flyingmoneyparrot.gif" alt="emoji/flyingmoneyparrot.gif"><br><kbd>:flyingmoneyparrot:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fobba.png" alt="emoji/fobba.png"><br><kbd>:fobba:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/foilhat.gif" alt="emoji/foilhat.gif"><br><kbd>:foilhat:</kbd></td>
 </tr>
@@ -586,14 +747,32 @@
 <td style='width: 20%'><img width='30' src="emoji/frantic.png" alt="emoji/frantic.png"><br><kbd>:frantic:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/french-guy-parrot.gif" alt="emoji/french-guy-parrot.gif"><br><kbd>:french-guy-parrot:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/freud.jpg" alt="emoji/freud.jpg"><br><kbd>:freud:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/friday.gif" alt="emoji/friday.gif"><br><kbd>:friday:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/frustrated-donald.png" alt="emoji/frustrated-donald.png"><br><kbd>:frustrated-donald:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/fug.png" alt="emoji/fug.png"><br><kbd>:fug:</kbd></td>
+</tr>
+<tr>
 <td style='width: 20%'><img width='30' src="emoji/funny.gif" alt="emoji/funny.gif"><br><kbd>:funny:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/funny2.gif" alt="emoji/funny2.gif"><br><kbd>:funny2:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/furious-donald.png" alt="emoji/furious-donald.png"><br><kbd>:furious-donald:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-amy.png" alt="emoji/futurama-amy.png"><br><kbd>:futurama-amy:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-bender.png" alt="emoji/futurama-bender.png"><br><kbd>:futurama-bender:</kbd></td>
 </tr>
 <tr>
+<td style='width: 20%'><img width='30' src="emoji/futurama-farnsworth.png" alt="emoji/futurama-farnsworth.png"><br><kbd>:futurama-farnsworth:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-fry.png" alt="emoji/futurama-fry.png"><br><kbd>:futurama-fry:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-hermes.png" alt="emoji/futurama-hermes.png"><br><kbd>:futurama-hermes:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-hypnotoad.png" alt="emoji/futurama-hypnotoad.png"><br><kbd>:futurama-hypnotoad:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-kif.png" alt="emoji/futurama-kif.png"><br><kbd>:futurama-kif:</kbd></td>
+</tr>
+<tr>
+<td style='width: 20%'><img width='30' src="emoji/futurama-leela.png" alt="emoji/futurama-leela.png"><br><kbd>:futurama-leela:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-zapp.png" alt="emoji/futurama-zapp.png"><br><kbd>:futurama-zapp:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/futurama-zoidberg.png" alt="emoji/futurama-zoidberg.png"><br><kbd>:futurama-zoidberg:</kbd></td>
 <td style='width: 20%'><img width='30' src="emoji/futurice.png" alt="emoji/futurice.png"><br><kbd>:futurice:</kbd></td>
+<td style='width: 20%'><img width='30' src="emoji/fuuu.png" alt="emoji/fuuu.png"><br><kbd>:fuuu:</kbd></td>
 </tr>
 </table>
 
@@ -1884,4 +2063,4 @@
 
 
 
- Generated: 2022-09-07T08:43:22+00:00
+ Generated: 2022-09-07T09:53:16+00:00
