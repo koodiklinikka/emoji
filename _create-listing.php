@@ -1,7 +1,7 @@
 <?php
 
 $output        = 'README.md';
-$per_row       = 5;
+$per_row       = 10;
 $files         = glob('emoji/*.{png,gif,jpg,jpeg}', GLOB_BRACE);
 $listing       = [];
 $per_row_width = floor(100 / $per_row) . '%';
@@ -51,7 +51,7 @@ foreach ($listing as $header => $icons) {
             [$name, $ext] = explode('.', get_basename($icon), 2);
 
             $format   = '<td style=\'width: %s\'><img width=\'30\' src="%2$s"'
-                . ' alt="%2$s" title=":%3$s:"><br><kbd>:%3$s:</kbd></td>';
+                . ' alt="%2$s" title=":%3$s:"></td>';
             $contents .= sprintf($format, $per_row_width, $file, $name) . "\n";
         }
 
