@@ -1300,18 +1300,16 @@
 <tr>
 <td style='width: 10%'><img width='30' src="emoji/kartasto.png" alt="emoji/kartasto.png" title=":kartasto:"></td>
 <td style='width: 10%'><img width='30' src="emoji/karvalakki.png" alt="emoji/karvalakki.png" title=":karvalakki:"></td>
-<td style='width: 10%'><img width='30' src="emoji/käärijä.gif" alt="emoji/käärijä.gif" title=":käärijä:"></td>
-<td style='width: 10%'><img width='30' src="emoji/kärnä.jpg" alt="emoji/kärnä.jpg" title=":kärnä:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kebaba.png" alt="emoji/kebaba.png" title=":kebaba:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kek.gif" alt="emoji/kek.gif" title=":kek:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kekkonen.jpg" alt="emoji/kekkonen.jpg" title=":kekkonen:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kekkonen.png" alt="emoji/kekkonen.png" title=":kekkonen:"></td>
 <td style='width: 10%'><img width='30' src="emoji/keltainenkuula.png" alt="emoji/keltainenkuula.png" title=":keltainenkuula:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kemira.png" alt="emoji/kemira.png" title=":kemira:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kepu.png" alt="emoji/kepu.png" title=":kepu:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kerho.png" alt="emoji/kerho.png" title=":kerho:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/kermitflail.gif" alt="emoji/kermitflail.gif" title=":kermitflail:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kesa-norppa.png" alt="emoji/kesa-norppa.png" title=":kesa-norppa:"></td>
 <td style='width: 10%'><img width='30' src="emoji/keskisarja.png" alt="emoji/keskisarja.png" title=":keskisarja:"></td>
@@ -1320,10 +1318,10 @@
 <td style='width: 10%'><img width='30' src="emoji/kettukarkki.png" alt="emoji/kettukarkki.png" title=":kettukarkki:"></td>
 <td style='width: 10%'><img width='30' src="emoji/keycloak.png" alt="emoji/keycloak.png" title=":keycloak:"></td>
 <td style='width: 10%'><img width='30' src="emoji/khyl.png" alt="emoji/khyl.png" title=":khyl:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kickericon.png" alt="emoji/kickericon.png" title=":kickericon:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kid-drop-off.png" alt="emoji/kid-drop-off.png" title=":kid-drop-off:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/kids.png" alt="emoji/kids.png" title=":kids:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kiikarit.jpg" alt="emoji/kiikarit.jpg" title=":kiikarit:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kikkihiiri.jpg" alt="emoji/kikkihiiri.jpg" title=":kikkihiiri:"></td>
@@ -1332,10 +1330,10 @@
 <td style='width: 10%'><img width='30' src="emoji/kinder.png" alt="emoji/kinder.png" title=":kinder:"></td>
 <td style='width: 10%'><img width='30' src="emoji/king.gif" alt="emoji/king.gif" title=":king:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kippis.gif" alt="emoji/kippis.gif" title=":kippis:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kipukoukku.png" alt="emoji/kipukoukku.png" title=":kipukoukku:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kirkkonummi.png" alt="emoji/kirkkonummi.png" title=":kirkkonummi:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/kissing_thinking_face_with_open_eye_and_rolling_eye.png" alt="emoji/kissing_thinking_face_with_open_eye_and_rolling_eye.png" title=":kissing_thinking_face_with_open_eye_and_rolling_eye:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kittyler.png" alt="emoji/kittyler.png" title=":kittyler:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kloriitti.jpg" alt="emoji/kloriitti.jpg" title=":kloriitti:"></td>
@@ -1344,10 +1342,10 @@
 <td style='width: 10%'><img width='30' src="emoji/koho.png" alt="emoji/koho.png" title=":koho:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kokkari.png" alt="emoji/kokkari.png" title=":kokkari:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kokoomus.png" alt="emoji/kokoomus.png" title=":kokoomus:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kone.jpg" alt="emoji/kone.jpg" title=":kone:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kongsberg.png" alt="emoji/kongsberg.png" title=":kongsberg:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/koodia-pinnan-alla.png" alt="emoji/koodia-pinnan-alla.png" title=":koodia-pinnan-alla:"></td>
 <td style='width: 10%'><img width='30' src="emoji/koodiasuomesta.png" alt="emoji/koodiasuomesta.png" title=":koodiasuomesta:"></td>
 <td style='width: 10%'><img width='30' src="emoji/koodiklinikka-birthday.png" alt="emoji/koodiklinikka-birthday.png" title=":koodiklinikka-birthday:"></td>
@@ -1356,10 +1354,10 @@
 <td style='width: 10%'><img width='30' src="emoji/koodiklinikka-ukraine.png" alt="emoji/koodiklinikka-ukraine.png" title=":koodiklinikka-ukraine:"></td>
 <td style='width: 10%'><img width='30' src="emoji/koodiklinikka-verified.png" alt="emoji/koodiklinikka-verified.png" title=":koodiklinikka-verified:"></td>
 <td style='width: 10%'><img width='30' src="emoji/koodiklinikka.png" alt="emoji/koodiklinikka.png" title=":koodiklinikka:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/koodiklinikka2019.png" alt="emoji/koodiklinikka2019.png" title=":koodiklinikka2019:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kopteri.gif" alt="emoji/kopteri.gif" title=":kopteri:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/korona-kurkkii.png" alt="emoji/korona-kurkkii.png" title=":korona-kurkkii:"></td>
 <td style='width: 10%'><img width='30' src="emoji/korona.png" alt="emoji/korona.png" title=":korona:"></td>
 <td style='width: 10%'><img width='30' src="emoji/korvapuusti.png" alt="emoji/korvapuusti.png" title=":korvapuusti:"></td>
@@ -1368,10 +1366,10 @@
 <td style='width: 10%'><img width='30' src="emoji/kotlin.png" alt="emoji/kotlin.png" title=":kotlin:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kouvola.png" alt="emoji/kouvola.png" title=":kouvola:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kramer.png" alt="emoji/kramer.png" title=":kramer:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/krauta.png" alt="emoji/krauta.png" title=":krauta:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kristo.png" alt="emoji/kristo.png" title=":kristo:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/krtek.png" alt="emoji/krtek.png" title=":krtek:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kubegopher.png" alt="emoji/kubegopher.png" title=":kubegopher:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kubernetes.png" alt="emoji/kubernetes.png" title=":kubernetes:"></td>
@@ -1380,10 +1378,10 @@
 <td style='width: 10%'><img width='30' src="emoji/kumiankka.png" alt="emoji/kumiankka.png" title=":kumiankka:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kunnas.png" alt="emoji/kunnas.png" title=":kunnas:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-deal-with-it.gif" alt="emoji/kurkkumopo-deal-with-it.gif" title=":kurkkumopo-deal-with-it:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-keulii.gif" alt="emoji/kurkkumopo-keulii.gif" title=":kurkkumopo-keulii:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-pet.gif" alt="emoji/kurkkumopo-pet.gif" title=":kurkkumopo-pet:"></td>
+</tr>
+<tr>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-salut.gif" alt="emoji/kurkkumopo-salut.gif" title=":kurkkumopo-salut:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-scroll.gif" alt="emoji/kurkkumopo-scroll.gif" title=":kurkkumopo-scroll:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kurkkumopo-tapina.gif" alt="emoji/kurkkumopo-tapina.gif" title=":kurkkumopo-tapina:"></td>
@@ -1392,11 +1390,13 @@
 <td style='width: 10%'><img width='30' src="emoji/kuumottaako.png" alt="emoji/kuumottaako.png" title=":kuumottaako:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kuumotus.jpg" alt="emoji/kuumotus.jpg" title=":kuumotus:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kyber.png" alt="emoji/kyber.png" title=":kyber:"></td>
-</tr>
-<tr>
 <td style='width: 10%'><img width='30' src="emoji/kyloren.png" alt="emoji/kyloren.png" title=":kyloren:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kyyla.png" alt="emoji/kyyla.png" title=":kyyla:"></td>
+</tr>
+<tr>
+<td style='width: 10%'><img width='30' src="emoji/kärnä.jpg" alt="emoji/kärnä.jpg" title=":kärnä:"></td>
 <td style='width: 10%'><img width='30' src="emoji/kääk-juttu.png" alt="emoji/kääk-juttu.png" title=":kääk-juttu:"></td>
+<td style='width: 10%'><img width='30' src="emoji/käärijä.gif" alt="emoji/käärijä.gif" title=":käärijä:"></td>
 </tr>
 </table>
 
@@ -1501,7 +1501,7 @@
 <tr>
 <td style='width: 10%'><img width='30' src="emoji/makkara.png" alt="emoji/makkara.png" title=":makkara:"></td>
 <td style='width: 10%'><img width='30' src="emoji/maksumuuri.png" alt="emoji/maksumuuri.png" title=":maksumuuri:"></td>
-<td style='width: 10%'><img width='30' src="emoji/mallow-käärijä.png" alt="emoji/mallow-käärijä.png" title=":mallow-käärijä:"></td>
+<td style='width: 10%'><img width='30' src="emoji/mallow-käärijä.png" alt="emoji/mallow-käärijä.png" title=":mallow-käärijä:"></td>
 <td style='width: 10%'><img width='30' src="emoji/mallow.png" alt="emoji/mallow.png" title=":mallow:"></td>
 <td style='width: 10%'><img width='30' src="emoji/manatee.png" alt="emoji/manatee.png" title=":manatee:"></td>
 <td style='width: 10%'><img width='30' src="emoji/mandalorian.png" alt="emoji/mandalorian.png" title=":mandalorian:"></td>
@@ -1537,7 +1537,7 @@
 <tr>
 <td style='width: 10%'><img width='30' src="emoji/massipaallikko.png" alt="emoji/massipaallikko.png" title=":massipaallikko:"></td>
 <td style='width: 10%'><img width='30' src="emoji/math.gif" alt="emoji/math.gif" title=":math:"></td>
-<td style='width: 10%'><img width='30' src="emoji/matiasmäkynen.png" alt="emoji/matiasmäkynen.png" title=":matiasmäkynen:"></td>
+<td style='width: 10%'><img width='30' src="emoji/matiasmäkynen.png" alt="emoji/matiasmäkynen.png" title=":matiasmäkynen:"></td>
 <td style='width: 10%'><img width='30' src="emoji/matrixparrot.gif" alt="emoji/matrixparrot.gif" title=":matrixparrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/matti.png" alt="emoji/matti.png" title=":matti:"></td>
 <td style='width: 10%'><img width='30' src="emoji/matula.jpg" alt="emoji/matula.jpg" title=":matula:"></td>
@@ -2294,6 +2294,7 @@
 </tr>
 <tr>
 <td style='width: 10%'><img width='30' src="emoji/samsome.jpg" alt="emoji/samsome.jpg" title=":samsome:"></td>
+<td style='width: 10%'><img width='30' src="emoji/sandpaper.png" alt="emoji/sandpaper.png" title=":sandpaper:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sanna-love.gif" alt="emoji/sanna-love.gif" title=":sanna-love:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sanna-rage.gif" alt="emoji/sanna-rage.gif" title=":sanna-rage:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sannamarin.png" alt="emoji/sannamarin.png" title=":sannamarin:"></td>
@@ -2302,9 +2303,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sap.png" alt="emoji/sap.png" title=":sap:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sarcastic.png" alt="emoji/sarcastic.png" title=":sarcastic:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sarjakuristaja.png" alt="emoji/sarjakuristaja.png" title=":sarjakuristaja:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sarvi.jpg" alt="emoji/sarvi.jpg" title=":sarvi:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/sarvi.jpg" alt="emoji/sarvi.jpg" title=":sarvi:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sassy-parrot.gif" alt="emoji/sassy-parrot.gif" title=":sassy-parrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sassy.gif" alt="emoji/sassy.gif" title=":sassy:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sassyparrot.gif" alt="emoji/sassyparrot.gif" title=":sassyparrot:"></td>
@@ -2314,9 +2315,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sauna-male.png" alt="emoji/sauna-male.png" title=":sauna-male:"></td>
 <td style='width: 10%'><img width='30' src="emoji/saunaklonkku.png" alt="emoji/saunaklonkku.png" title=":saunaklonkku:"></td>
 <td style='width: 10%'><img width='30' src="emoji/savitaipale.png" alt="emoji/savitaipale.png" title=":savitaipale:"></td>
-<td style='width: 10%'><img width='30' src="emoji/scala-aurinko.jpg" alt="emoji/scala-aurinko.jpg" title=":scala-aurinko:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/scala-aurinko.jpg" alt="emoji/scala-aurinko.jpg" title=":scala-aurinko:"></td>
 <td style='width: 10%'><img width='30' src="emoji/scala.png" alt="emoji/scala.png" title=":scala:"></td>
 <td style='width: 10%'><img width='30' src="emoji/scalajs.png" alt="emoji/scalajs.png" title=":scalajs:"></td>
 <td style='width: 10%'><img width='30' src="emoji/scheems.png" alt="emoji/scheems.png" title=":scheems:"></td>
@@ -2326,9 +2327,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sdp.png" alt="emoji/sdp.png" title=":sdp:"></td>
 <td style='width: 10%'><img width='30' src="emoji/se.png" alt="emoji/se.png" title=":se:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seagal.png" alt="emoji/seagal.png" title=":seagal:"></td>
-<td style='width: 10%'><img width='30' src="emoji/seal_of_approval.png" alt="emoji/seal_of_approval.png" title=":seal_of_approval:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/seal_of_approval.png" alt="emoji/seal_of_approval.png" title=":seal_of_approval:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sealion_of_neutrality.png" alt="emoji/sealion_of_neutrality.png" title=":sealion_of_neutrality:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seeal.png" alt="emoji/seeal.png" title=":seeal:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seethegood.png" alt="emoji/seethegood.png" title=":seethegood:"></td>
@@ -2338,21 +2339,21 @@
 <td style='width: 10%'><img width='30' src="emoji/selevä1.png" alt="emoji/selevä1.png" title=":selevä1:"></td>
 <td style='width: 10%'><img width='30' src="emoji/self-care.png" alt="emoji/self-care.png" title=":self-care:"></td>
 <td style='width: 10%'><img width='30' src="emoji/selfhighfive.gif" alt="emoji/selfhighfive.gif" title=":selfhighfive:"></td>
-<td style='width: 10%'><img width='30' src="emoji/selva-kyy.png" alt="emoji/selva-kyy.png" title=":selva-kyy:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/selva-kyy.png" alt="emoji/selva-kyy.png" title=":selva-kyy:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seo.png" alt="emoji/seo.png" title=":seo:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seojustnai.png" alt="emoji/seojustnai.png" title=":seojustnai:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seppo.png" alt="emoji/seppo.png" title=":seppo:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sepporäty.png" alt="emoji/sepporäty.png" title=":sepporäty:"></td>
+<td style='width: 10%'><img width='30' src="emoji/sepporäty.png" alt="emoji/sepporäty.png" title=":sepporäty:"></td>
 <td style='width: 10%'><img width='30' src="emoji/server-error.png" alt="emoji/server-error.png" title=":server-error:"></td>
 <td style='width: 10%'><img width='30' src="emoji/seteli.png" alt="emoji/seteli.png" title=":seteli:"></td>
 <td style='width: 10%'><img width='30' src="emoji/setämies.png" alt="emoji/setämies.png" title=":setämies:"></td>
 <td style='width: 10%'><img width='30' src="emoji/severa.png" alt="emoji/severa.png" title=":severa:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sexual_harassment_panda.png" alt="emoji/sexual_harassment_panda.png" title=":sexual_harassment_panda:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sfw.png" alt="emoji/sfw.png" title=":sfw:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/sfw.png" alt="emoji/sfw.png" title=":sfw:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shalom.png" alt="emoji/shalom.png" title=":shalom:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shame-why.png" alt="emoji/shame-why.png" title=":shame-why:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shame.png" alt="emoji/shame.png" title=":shame:"></td>
@@ -2362,9 +2363,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sherwood.jpg" alt="emoji/sherwood.jpg" title=":sherwood:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shh.gif" alt="emoji/shh.gif" title=":shh:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shia.gif" alt="emoji/shia.gif" title=":shia:"></td>
-<td style='width: 10%'><img width='30' src="emoji/shibuli.png" alt="emoji/shibuli.png" title=":shibuli:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/shibuli.png" alt="emoji/shibuli.png" title=":shibuli:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shifty.gif" alt="emoji/shifty.gif" title=":shifty:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shipit-parrot.gif" alt="emoji/shipit-parrot.gif" title=":shipit-parrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shipitparrot.gif" alt="emoji/shipitparrot.gif" title=":shipitparrot:"></td>
@@ -2374,9 +2375,9 @@
 <td style='width: 10%'><img width='30' src="emoji/shoot-me.gif" alt="emoji/shoot-me.gif" title=":shoot-me:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shortparrot.gif" alt="emoji/shortparrot.gif" title=":shortparrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shout.png" alt="emoji/shout.png" title=":shout:"></td>
-<td style='width: 10%'><img width='30' src="emoji/shovel.png" alt="emoji/shovel.png" title=":shovel:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/shovel.png" alt="emoji/shovel.png" title=":shovel:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shovel_run.gif" alt="emoji/shovel_run.gif" title=":shovel_run:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shufflefurtherparrot.gif" alt="emoji/shufflefurtherparrot.gif" title=":shufflefurtherparrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/shuffleparrot.gif" alt="emoji/shuffleparrot.gif" title=":shuffleparrot:"></td>
@@ -2386,9 +2387,9 @@
 <td style='width: 10%'><img width='30' src="emoji/siipi.jpg" alt="emoji/siipi.jpg" title=":siipi:"></td>
 <td style='width: 10%'><img width='30' src="emoji/siiwet.png" alt="emoji/siiwet.png" title=":siiwet:"></td>
 <td style='width: 10%'><img width='30' src="emoji/silence-baby.png" alt="emoji/silence-baby.png" title=":silence-baby:"></td>
-<td style='width: 10%'><img width='30' src="emoji/simofrangen.png" alt="emoji/simofrangen.png" title=":simofrangen:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/simofrangen.png" alt="emoji/simofrangen.png" title=":simofrangen:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sininen_tulevaisuus.png" alt="emoji/sininen_tulevaisuus.png" title=":sininen_tulevaisuus:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sink.png" alt="emoji/sink.png" title=":sink:"></td>
 <td style='width: 10%'><img width='30' src="emoji/siren2.gif" alt="emoji/siren2.gif" title=":siren2:"></td>
@@ -2398,9 +2399,9 @@
 <td style='width: 10%'><img width='30' src="emoji/skeletor.png" alt="emoji/skeletor.png" title=":skeletor:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sketch.png" alt="emoji/sketch.png" title=":sketch:"></td>
 <td style='width: 10%'><img width='30' src="emoji/ski_parrot.gif" alt="emoji/ski_parrot.gif" title=":ski_parrot:"></td>
-<td style='width: 10%'><img width='30' src="emoji/skip.png" alt="emoji/skip.png" title=":skip:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/skip.png" alt="emoji/skip.png" title=":skip:"></td>
 <td style='width: 10%'><img width='30' src="emoji/skiparrot.gif" alt="emoji/skiparrot.gif" title=":skiparrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/skoda.png" alt="emoji/skoda.png" title=":skoda:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sledgehammer.png" alt="emoji/sledgehammer.png" title=":sledgehammer:"></td>
@@ -2410,9 +2411,9 @@
 <td style='width: 10%'><img width='30' src="emoji/slowpoke.png" alt="emoji/slowpoke.png" title=":slowpoke:"></td>
 <td style='width: 10%'><img width='30' src="emoji/smartly.png" alt="emoji/smartly.png" title=":smartly:"></td>
 <td style='width: 10%'><img width='30' src="emoji/smartlyio.png" alt="emoji/smartlyio.png" title=":smartlyio:"></td>
-<td style='width: 10%'><img width='30' src="emoji/smash.gif" alt="emoji/smash.gif" title=":smash:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/smash.gif" alt="emoji/smash.gif" title=":smash:"></td>
 <td style='width: 10%'><img width='30' src="emoji/smirk-donald.png" alt="emoji/smirk-donald.png" title=":smirk-donald:"></td>
 <td style='width: 10%'><img width='30' src="emoji/smoke.gif" alt="emoji/smoke.gif" title=":smoke:"></td>
 <td style='width: 10%'><img width='30' src="emoji/smugdog.png" alt="emoji/smugdog.png" title=":smugdog:"></td>
@@ -2422,9 +2423,9 @@
 <td style='width: 10%'><img width='30' src="emoji/snus.png" alt="emoji/snus.png" title=":snus:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sobblood.png" alt="emoji/sobblood.png" title=":sobblood:"></td>
 <td style='width: 10%'><img width='30' src="emoji/softico.png" alt="emoji/softico.png" title=":softico:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sohvaperuna.png" alt="emoji/sohvaperuna.png" title=":sohvaperuna:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/sohvaperuna.png" alt="emoji/sohvaperuna.png" title=":sohvaperuna:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sokeripappa.gif" alt="emoji/sokeripappa.gif" title=":sokeripappa:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sokeripulla.png" alt="emoji/sokeripulla.png" title=":sokeripulla:"></td>
 <td style='width: 10%'><img width='30' src="emoji/solita.png" alt="emoji/solita.png" title=":solita:"></td>
@@ -2434,9 +2435,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sotakuumotus.jpg" alt="emoji/sotakuumotus.jpg" title=":sotakuumotus:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sotka-4.png" alt="emoji/sotka-4.png" title=":sotka-4:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sotka-thumbs-up.png" alt="emoji/sotka-thumbs-up.png" title=":sotka-thumbs-up:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sotrue.png" alt="emoji/sotrue.png" title=":sotrue:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/sotrue.png" alt="emoji/sotrue.png" title=":sotrue:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sound_out.png" alt="emoji/sound_out.png" title=":sound_out:"></td>
 <td style='width: 10%'><img width='30' src="emoji/soviet.png" alt="emoji/soviet.png" title=":soviet:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sovjetparrot.gif" alt="emoji/sovjetparrot.gif" title=":sovjetparrot:"></td>
@@ -2446,9 +2447,9 @@
 <td style='width: 10%'><img width='30' src="emoji/spacex.jpg" alt="emoji/spacex.jpg" title=":spacex:"></td>
 <td style='width: 10%'><img width='30' src="emoji/spede.gif" alt="emoji/spede.gif" title=":spede:"></td>
 <td style='width: 10%'><img width='30' src="emoji/spede.png" alt="emoji/spede.png" title=":spede:"></td>
-<td style='width: 10%'><img width='30' src="emoji/speed_dance.gif" alt="emoji/speed_dance.gif" title=":speed_dance:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/speed_dance.gif" alt="emoji/speed_dance.gif" title=":speed_dance:"></td>
 <td style='width: 10%'><img width='30' src="emoji/spinningparrot.gif" alt="emoji/spinningparrot.gif" title=":spinningparrot:"></td>
 <td style='width: 10%'><img width='30' src="emoji/spotify.png" alt="emoji/spotify.png" title=":spotify:"></td>
 <td style='width: 10%'><img width='30' src="emoji/spurdo-ilo.png" alt="emoji/spurdo-ilo.png" title=":spurdo-ilo:"></td>
@@ -2458,9 +2459,9 @@
 <td style='width: 10%'><img width='30' src="emoji/squash.png" alt="emoji/squash.png" title=":squash:"></td>
 <td style='width: 10%'><img width='30' src="emoji/squirtlesquad.jpg" alt="emoji/squirtlesquad.jpg" title=":squirtlesquad:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sriracha.png" alt="emoji/sriracha.png" title=":sriracha:"></td>
-<td style='width: 10%'><img width='30' src="emoji/srsly.gif" alt="emoji/srsly.gif" title=":srsly:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/srsly.gif" alt="emoji/srsly.gif" title=":srsly:"></td>
 <td style='width: 10%'><img width='30' src="emoji/st-javelin-2.png" alt="emoji/st-javelin-2.png" title=":st-javelin-2:"></td>
 <td style='width: 10%'><img width='30' src="emoji/st-javelin.png" alt="emoji/st-javelin.png" title=":st-javelin:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stableparrot.gif" alt="emoji/stableparrot.gif" title=":stableparrot:"></td>
@@ -2470,9 +2471,9 @@
 <td style='width: 10%'><img width='30' src="emoji/stanley.png" alt="emoji/stanley.png" title=":stanley:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stapler.png" alt="emoji/stapler.png" title=":stapler:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stara.gif" alt="emoji/stara.gif" title=":stara:"></td>
-<td style='width: 10%'><img width='30' src="emoji/starbucks.png" alt="emoji/starbucks.png" title=":starbucks:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/starbucks.png" alt="emoji/starbucks.png" title=":starbucks:"></td>
 <td style='width: 10%'><img width='30' src="emoji/starcart.png" alt="emoji/starcart.png" title=":starcart:"></td>
 <td style='width: 10%'><img width='30' src="emoji/starepoo.png" alt="emoji/starepoo.png" title=":starepoo:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stayhomeparrot.gif" alt="emoji/stayhomeparrot.gif" title=":stayhomeparrot:"></td>
@@ -2482,9 +2483,9 @@
 <td style='width: 10%'><img width='30' src="emoji/steve1989mreinfo.png" alt="emoji/steve1989mreinfo.png" title=":steve1989mreinfo:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stig.png" alt="emoji/stig.png" title=":stig:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stoat.png" alt="emoji/stoat.png" title=":stoat:"></td>
-<td style='width: 10%'><img width='30' src="emoji/stobe.jpg" alt="emoji/stobe.jpg" title=":stobe:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/stobe.jpg" alt="emoji/stobe.jpg" title=":stobe:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stock_down.png" alt="emoji/stock_down.png" title=":stock_down:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stock_up.gif" alt="emoji/stock_up.gif" title=":stock_up:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stonks-down.png" alt="emoji/stonks-down.png" title=":stonks-down:"></td>
@@ -2494,9 +2495,9 @@
 <td style='width: 10%'><img width='30' src="emoji/stormtrooper.png" alt="emoji/stormtrooper.png" title=":stormtrooper:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stormtrooper2.png" alt="emoji/stormtrooper2.png" title=":stormtrooper2:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stout.png" alt="emoji/stout.png" title=":stout:"></td>
-<td style='width: 10%'><img width='30' src="emoji/straightoutta.png" alt="emoji/straightoutta.png" title=":straightoutta:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/straightoutta.png" alt="emoji/straightoutta.png" title=":straightoutta:"></td>
 <td style='width: 10%'><img width='30' src="emoji/strawman.png" alt="emoji/strawman.png" title=":strawman:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stubb.jpg" alt="emoji/stubb.jpg" title=":stubb:"></td>
 <td style='width: 10%'><img width='30' src="emoji/stubparrot.gif" alt="emoji/stubparrot.gif" title=":stubparrot:"></td>
@@ -2506,9 +2507,9 @@
 <td style='width: 10%'><img width='30' src="emoji/success_kid.png" alt="emoji/success_kid.png" title=":success_kid:"></td>
 <td style='width: 10%'><img width='30' src="emoji/successful.png" alt="emoji/successful.png" title=":successful:"></td>
 <td style='width: 10%'><img width='30' src="emoji/suffeli-laatikko.png" alt="emoji/suffeli-laatikko.png" title=":suffeli-laatikko:"></td>
-<td style='width: 10%'><img width='30' src="emoji/sugar.jpg" alt="emoji/sugar.jpg" title=":sugar:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/sugar.jpg" alt="emoji/sugar.jpg" title=":sugar:"></td>
 <td style='width: 10%'><img width='30' src="emoji/suicide-rope.png" alt="emoji/suicide-rope.png" title=":suicide-rope:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sun.png" alt="emoji/sun.png" title=":sun:"></td>
 <td style='width: 10%'><img width='30' src="emoji/suomenparas.png" alt="emoji/suomenparas.png" title=":suomenparas:"></td>
@@ -2518,9 +2519,9 @@
 <td style='width: 10%'><img width='30' src="emoji/superman.png" alt="emoji/superman.png" title=":superman:"></td>
 <td style='width: 10%'><img width='30' src="emoji/supersoaker.png" alt="emoji/supersoaker.png" title=":supersoaker:"></td>
 <td style='width: 10%'><img width='30' src="emoji/supis.png" alt="emoji/supis.png" title=":supis:"></td>
-<td style='width: 10%'><img width='30' src="emoji/surprised-maija.png" alt="emoji/surprised-maija.png" title=":surprised-maija:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/surprised-maija.png" alt="emoji/surprised-maija.png" title=":surprised-maija:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sus.png" alt="emoji/sus.png" title=":sus:"></td>
 <td style='width: 10%'><img width='30' src="emoji/susikoiraroi.png" alt="emoji/susikoiraroi.png" title=":susikoiraroi:"></td>
 <td style='width: 10%'><img width='30' src="emoji/suspect.png" alt="emoji/suspect.png" title=":suspect:"></td>
@@ -2530,9 +2531,9 @@
 <td style='width: 10%'><img width='30' src="emoji/sweat-drool.png" alt="emoji/sweat-drool.png" title=":sweat-drool:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sweating.png" alt="emoji/sweating.png" title=":sweating:"></td>
 <td style='width: 10%'><img width='30' src="emoji/sweatybutt.gif" alt="emoji/sweatybutt.gif" title=":sweatybutt:"></td>
-<td style='width: 10%'><img width='30' src="emoji/swift.png" alt="emoji/swift.png" title=":swift:"></td>
 </tr>
 <tr>
+<td style='width: 10%'><img width='30' src="emoji/swift.png" alt="emoji/swift.png" title=":swift:"></td>
 <td style='width: 10%'><img width='30' src="emoji/swiftui.png" alt="emoji/swiftui.png" title=":swiftui:"></td>
 <td style='width: 10%'><img width='30' src="emoji/swoledoge.png" alt="emoji/swoledoge.png" title=":swoledoge:"></td>
 <td style='width: 10%'><img width='30' src="emoji/särki.png" alt="emoji/särki.png" title=":särki:"></td>
@@ -3070,4 +3071,4 @@
 
 
 
- Generated: 2023-07-25T11:28:24+00:00
+ Generated: 2024-04-22T12:40:52+00:00
