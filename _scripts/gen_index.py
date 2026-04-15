@@ -23,8 +23,8 @@ grid-template-columns: repeat(auto-fill, 6rem);
 font-family: sans-serif;
 font-size: 10pt;
 }
-div {text-align: center; padding: 0.5rem; word-break: break-word;}
-div img {display:block;height: 4rem;margin: auto;}
+div {text-align:center;padding:0.5rem;word-break:break-word;}
+div img {display:block;height:4rem;margin:auto;object-fit:contain;width:4rem;}
 """.strip()
 
 content = ""
